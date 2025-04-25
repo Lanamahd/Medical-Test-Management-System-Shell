@@ -41,11 +41,11 @@ This project implements a **Medical Test Management System** written entirely in
 
 
 ## File Structure
-/
-├── main.sh                 # Entry point for the management system
-├── add_record.sh           # Script for adding new test records
-├── search_record.sh        # Script for searching test records
-├── update_record.sh        # Script for updating test records
-├── delete_record.sh        # Script for deleting test records
-├── utils/                  # Utility scripts and helper functions
-└── README.md               # Project documentation
+      /
+      ├── main.sh                 # Entry point for the management system
+      ├── add_record.sh           # Script for adding new test records
+      ├── search_record.sh        # Script for searching test records
+      ├── update_record.sh        # Script for updating test records
+      ├── delete_record.sh        # Script for deleting test records
+      ├── utils/                  # Utility scripts and helper functions
+      └── README.md               # Project documentation
